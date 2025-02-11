@@ -1,0 +1,2 @@
+# Spatial_Statistics_Program_1
+spatial confounding
